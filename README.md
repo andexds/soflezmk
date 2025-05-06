@@ -114,6 +114,8 @@ CMakeCache.txt
 *.bin
 *.hex
 *.uf2
+.west
+zmk
 ```
 
 ---
